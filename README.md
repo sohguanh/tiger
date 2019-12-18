@@ -40,4 +40,10 @@ Use a browser and navigate to http://localhost:6060/pkg/tiger/
 
 Any bug/suggestion/feedback can mail to sohguanh@gmail.com
 
+**Donate**
+
+Yes I know almost 99.99% of people do not donate. But I still include a PayPal Donate for that 0.01% (if they exist) and they appreciate the work I have done or my work has helped them in anyway.
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/sohguanh/1)
+
 :tiger: :tiger: :tiger:
